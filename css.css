@@ -291,7 +291,7 @@
             font-size: clamp(2rem, 5vw, 3.5rem);
             margin-bottom: 3rem;
             /*background: var(--primary-gradient);*/
-            background: linear-gradient(135deg, transparent 0%, var(--neon-yellow) 20%, var(--white) 100%);*/
+            background: linear-gradient(135deg, transparent 0%, var(--neon-yellow) 20%, var(--white) 100%);
 
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
